@@ -11,18 +11,23 @@ Markdown is transformed into nice looking HTML.
 > category that you chose, and the primary functions available to users
 > of the app.
 
-TODO WRITE / REPLACE
+I have chose to work on an arcade game. Which is a classic minesweeper game,
+the game has only one mouseclick event which is open up a mine.
+When all mine is reveal except the one with bombs, the game is won and will restart
+itself with proper notice.
+If a bomb is clicked, the game is lost and will restart itself with proper notice.
 
 ## Part 2: New
 
 > What is something new and/or exciting that you learned from working
 > on this project?
 
-TODO WRITE / REPLACE
+To implement a game logic to a javafx project is exciting. Changing the scene to reset
+the game is also one of the new topics i found interesting
 
 ## Part 3: Retrospect
 
 > If you could start the project over from scratch, what do
 > you think might do differently and why?
 
-TODO WRITE / REPLACE
+I would like to try a game with more movement, so that i can utilize the use of timeline.
